@@ -22,7 +22,7 @@ WORKDIR /app
 
 ENV SITE_NAME="Web-SyncPlay"
 ENV PUBLIC_DOMAIN="https://web-syncplay.de"
-ENV REDIS_URL="redis://redis:6379"
+ENV REDIS_URL="redis://default:S5BoZJYMmACrcbLH7HpPZC4fpV0mNWHR@redis-18916.c309.us-east-2-1.ec2.redns.redis-cloud.com:18916"
 
 EXPOSE 3000
 
